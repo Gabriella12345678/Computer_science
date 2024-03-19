@@ -1,0 +1,28 @@
+Addition Calculator
+print("Welcome to my Simple Calculator")
+print("This calculator adds two numbers supplied by the user")
+x = input("Enter first number: ")
+y=input("Enter last number: ")
+z =int(x)+int(y)
+print(z)
+Subtraction Calculator
+print("Welcome to my Simple Calculator")
+print("This calculator subtracts two numbers supplied by the user")
+x = input("Enter first number: ")
+y=input("Enter last number: ")
+z =int(x)-int(y)
+print(z)
+Multiplication Calculator
+print("Welcome to my Simple Calculator")
+print("This calculator multiplies two numbers supplied by the user")
+x = input("Enter first number: ")
+y=input("Enter last number: ")
+z =int(x)*int(y)
+print(z)
+Division Calculator
+print("Welcome to my Simple Calculator")
+print("This calculator divides two numbers supplied by the user")
+x = input("Enter first number: ")
+y=input("Enter last number: ")
+z =int(x)/int(y)
+print(z)
